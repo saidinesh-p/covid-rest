@@ -1,0 +1,3 @@
+com/easyway/covid_rest/rest/RestService.class
+com/easyway/covid_rest/service/RecordsService.class
+com/easyway/covid_rest/service/MyBatisUtil.class
